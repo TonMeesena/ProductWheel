@@ -1,0 +1,7 @@
+Item Name,Demand (items),Std Dev Demand (items),Change Over Cost (dollars),Inventory Price per Unit (dollars),Machine cycle time (minutes),Units per machine cycle (items),Initial Inventory (items) ,Trigger Points (items),Monthly,Total Time (minutes):,6720,Cost Tolerance (dollars):,2000000,,
+3.00 MIL PMMA Film  00040300  Green  38 IN,9097,4434,16,0.105,60,1968,909,0,,,,,,366,1.26
+3.00 MIL PMMA Film  00040300  Green  50 IN,49617,47798,5,0.0975,60,2586,4961,0,,,,,,1994,1.17
+3.00 MIL PMMA FILM  00147300  Brown  38 IN,2186,2027,6,0.321666667,60,1968,218,0,,,,,,948,3.86
+3.00 MIL PMMA FILM  00147300  Brown  50 IN,2083,2575,2,0.0925,60,2586,208,0,,,,,,903,1.11
+3.00 MIL PMMA Film  00035300  Black  32 IN,5804,3869,4,0.220833333,60,1662,580,0,,,,,,319,2.65
+3.00 MIL PMMA Film  00035300  Black  38 IN,8676,3898,12,0.13,60,1968,867,0,,,,,,476,1.56
